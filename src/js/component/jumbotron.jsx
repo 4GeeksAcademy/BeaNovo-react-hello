@@ -11,7 +11,7 @@ const Jumbotron = () => {
         <h1 className="display-5"  style={{ fontSize: "clamp(4rem, 9vw, 6rem)" }}>
           A Warm Welcome!
         </h1>
-        <p className="col-md-8 fs-4 lead">
+        <p className="fs-4 lead">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo
           suscipit erat ac feugiat. Morbi tempor eleifend lacus, eget semper
           ante volutpat at. Quisque sit amet interdum nisl. Morbi sit amet odio
